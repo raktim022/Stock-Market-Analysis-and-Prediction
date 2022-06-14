@@ -2,6 +2,6 @@
 I have used two models for the above Stock market data analysis- 
 <br>
    
-   <b> Facebook prophet model </b>
+   <b>1) Facebook prophet model </b>
    <br>
-   <b>LSTM stacked RNN</b>
+   <b>2) LSTM stacked RNN</b>
